@@ -1,3 +1,16 @@
+/-------------------------------------------------------------------------
+/ Code and GUI Application for Course 2 in the
+/ Java Programming: Object Oriented Design of 
+/ Data Structures Specialization:
+/
+/ Data structures and beyond in Java
+/ 
+/
+/ Authored by UCSD MOOC Team and Moaz
+/
+/ Date: 20/07/2020
+/-------------------------------------------------------------------------
+
 ---------------------------------------------------------[ DESCRIPTION ]--
 
 The text editor incorporates “intelligent” behaviours of modern-day text interfaces including autocomplete, flagging misspelled words and spelling auto correct. 
